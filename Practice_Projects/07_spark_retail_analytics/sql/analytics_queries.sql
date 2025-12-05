@@ -1,0 +1,1 @@
+SELECT customer_id, SUM(quantity*price) as total_revenue FROM orders_large GROUP BY customer_id ORDER BY total_revenue DESC LIMIT 10;

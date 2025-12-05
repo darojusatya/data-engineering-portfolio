@@ -1,0 +1,7 @@
+{
+  "features": [
+    "avg_order_value",
+    "order_count"
+  ],
+  "owner": "you@example.com"
+}

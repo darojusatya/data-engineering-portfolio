@@ -1,0 +1,1 @@
+Use the features.parquet in your ML pipeline. Example: load with pandas.read_parquet and join to training data.

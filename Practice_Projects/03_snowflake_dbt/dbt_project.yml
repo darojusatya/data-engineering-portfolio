@@ -1,0 +1,4 @@
+name: snowflake_dbt_project
+version: '1.0'
+config-version: 2
+profile: snowflake_profile

@@ -1,0 +1,13 @@
+# Example profiles.yml - replace with your Snowflake credentials
+snowflake_profile:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <account>
+      user: <user>
+      password: <password>
+      role: <role>
+      database: <db>
+      warehouse: <wh>
+      schema: <schema>
